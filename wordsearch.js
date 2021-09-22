@@ -1,3 +1,5 @@
+//Authors: Japhet Elias & Mohammed ali Al-Hassan
+
 const wordLookUp = (word, arr) => {
   const horizontalJoin = arr.map(ls => ls.join(''));
   for (l of horizontalJoin) {
